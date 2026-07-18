@@ -71,7 +71,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2104/default_ott.mpd?as
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-https://linears2-playback.astro.com.my/vsg/41i1EWn9EqEx2wCi8S73NF3IWmzDIRN1r2NhbcalYbEyM=y51Y/dash-wv/jitp-linearwm/5170/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41i1EWn9EqEx2wCi8S73NF3L2AsmUxEWGHEBcdGq6hAoo=dfm_/dash-wv/jitp-linearwm/5170/default_ott.mpd
 
 
 
@@ -331,7 +331,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41KCRHiXrGfupfbImePakMJk8qxJahNQ1DGMXebJEINaM=w7pX/dash-wv/jitp-linearwm/408/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41KCRHiXrGfupfbImePakMJoCKOLzpe_bpFIbVsJ54Btw=YxMY/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 
 ##BEIN2
@@ -339,7 +339,7 @@ https://linears2-playback.astro.com.my/vsg/41KCRHiXrGfupfbImePakMJk8qxJahNQ1DGMX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41-mUNTjUv6clNvKVKXHyFFFOfvcTCRxzK-nUmCgu6-l0=lkoO/dash-wv/jitp-linearwm/5066/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41-mUNTjUv6clNvKVKXHyFFEdbV8G_0DEb2S0QigmMyYA=B39O/dash-wv/jitp-linearwm/5066/default_primary.mpd
 
 
 
@@ -1700,8 +1700,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 
-
-
 ##404
 #EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="Malaysian" ch-number="404",404 Boo HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1709,14 +1707,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41XOD-VwDkpmfOJx6k-dNISsXj68aJTVnuRPBCjGLviII=TKAx/dash-wv/jitp-linearwm/2407/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41XOD-VwDkpmfOJx6k-dNISpNikz1RnjHU6yX8KQjGRb8=7Nht/dash-wv/jitp-linearwm/2407/default_ott.mpd
 
 
-@#EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="Malaysian" ch-number="404",404 BOO (Not 24H)
-##http://217.216.110.49:8000/booy70
-##http://217.216.110.49:8000/boop90
-##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=boo
-http://opplextv.cyou:8080/nasir6160/nasir/388747
+
 
 
 ##611
@@ -1726,13 +1720,9 @@ http://opplextv.cyou:8080/nasir6160/nasir/388747
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
-https://linears2-playback.astro.com.my/vsg/41Cf0qldk_TiLLmqqTsDTF4Sswp25xF-jthcVgW1pi0bM=_LV4/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41Cf0qldk_TiLLmqqTsDTF4bI25I2k62YqmJp4PZ_xMb8=OTHk/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
-@#EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Malaysian" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
-##http://217.216.110.49:8000/ceriay70
-http://217.216.110.49:8000/ceriap90
-##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=ceria
-##http://opplextv.cyou:8080/nasir6160/nasir/388726
+
 
 
 
